@@ -7,6 +7,8 @@ Vindra Store Annual Report 2022
 Description: 
 
 This project analyzes the sales data of Vindra Store using MS Excel Pivot Tables. The data is sourced from the store's sales records and includes information about the products sold, sales amounts, and dates of sales. The project is aimed at providing insights into the store's sales performance and identifying areas for improvement.
+
+
 Tools and Techniques:
 
 The project utilizes various MS Excel tools and techniques to analyze the data. These include Pivot Tables, Pivot Charts, Pie Charts, Combo Charts, Bar Charts, and Column Charts. The Pivot Tables are used to summarize and aggregate the sales data by different categories, such as product types, sales dates, and sales amounts. The Pivot Charts are used to visualize the summarized data in a graphical format.
