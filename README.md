@@ -25,6 +25,8 @@ The analysis of the Vindra Store sales data reveals the following insights:
 4.out of 100% the order status was delivery rate-92% cancelled rate-3% returned-3% refunded-2%
 5.Highest sales occured in maharastra and Telangana
 6.More than 60% buyers are Adults
+
+
 Conclusion:
 
 The Vindra Store Analysis project provides valuable insights into the store's sales performance, which can be used to identify areas for improvement and increase profitability. The use of MS Excel Pivot Tables and Charts makes it easy to visualize and understand the sales data, which can be shared with stakeholders to inform business decisions.
